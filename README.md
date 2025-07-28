@@ -76,11 +76,11 @@ apt update && apt upgrade
 
 pkg install git python -y
 
-git clone https://github.com/Redeye00007/basic-package
+git clone https://github.com/Redeye00007/basic-package2
 
-cd basic-package
+cd basic-package2
 
-python b-pack.py
+python basic-package.py
 ```
 ## THANK YOU FOR USING THIS TOOL
 
